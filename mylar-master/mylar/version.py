@@ -1,1 +1,0 @@
-MYLAR_VERSION = "master"
